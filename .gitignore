@@ -1,0 +1,9 @@
+# Dependency directories
+node_modules/
+# dotenv environment variables file
+.env
+# Lock File
+yarn.lock
+
+# Nuxt.js build / generate output
+.nuxt
